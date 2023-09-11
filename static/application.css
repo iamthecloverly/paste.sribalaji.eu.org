@@ -77,8 +77,8 @@ textarea {
 #box1 a.logo, #box1 a.logo:visited {
 	display: inline-block;
 	background: url(logo.png);
-	width: 126px;
-	height: auto;
+	width: 150px;
+	height: 80px;
 }
 
 #box1 a.logo:hover {
